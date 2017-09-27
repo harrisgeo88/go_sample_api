@@ -38,15 +38,6 @@ func GetPeopleEndpoint(w http.ResponseWriter, req *http.Request) {
 
 }
 
-func CreatePersonEndpoint(w http.ResponseWriter, req *http.Request) {
-
-}
-
-func DeletePersonEndpoint(w http.ResponseWriter, req *http.Request) {
-
-}
-
-
 func main() {
 	router := mux.NewRouter()
 
