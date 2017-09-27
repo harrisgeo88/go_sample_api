@@ -10,6 +10,4 @@
 
 `./go_sample_api`
 
-You can test the server here:
-
-[http://localhost:12345/people]()
+You can test the server under port `12345` or [click here](http://localhost:12345/people)
